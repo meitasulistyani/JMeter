@@ -1,0 +1,8 @@
+Tugas JMeter Elements
+
+Menurut anda, jenis report manakah dari Jmeter yang mudah dipahami? Berikan penjelasannya.
+
+Jawab : 
+
+Terdapat beberapa jenis report pada software JMeter diantaranya Grafik, tabel, log dan tree
+Dari jenis-jenis report diatas, menurut saya terdapat kelebihan dan kekurangan masing-masing. seperti jenis report tabel menyajikan data lebih detail daripada jenis data yang lain. Namun, jenis data yang mudah dipahami menurut saya adalah data grafik, karena data tidak hanya berupa angka tapi dalam bentuk visual juga.
